@@ -1,0 +1,34 @@
+[
+    {
+        "workout_type": "Running",
+        "duration": 30,
+        "calories": 500,
+        "date": "2025-03-19 19:59:04"
+    },
+    {
+        "workout_type": "Cycling",
+        "duration": 30,
+        "calories": 500,
+        "date": "2025-03-19 19:59:56"
+    },
+    {
+        "workout_type": "Yoga",
+        "duration": 60,
+        "calories": 300,
+        "date": "2025-03-19 20:00:52"
+    },
+    {
+        "workout_type": "Running",
+        "duration": 30,
+        "calories": 250,
+        "date": "2025-03-19 16:45:22"
+    },
+    {
+        "workout_type": "Cycling",
+        "duration": 45,
+        "calories": 400,
+        "date": "2025-03-20 17:30:00"
+    }
+]
+
+    
